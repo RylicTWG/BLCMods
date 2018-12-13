@@ -1,4 +1,5 @@
 <BLCMM v="1">
+#This accessory on splatguns doesn't allow them to shoot.
 #<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
 	<head>
 		<type name="BL2" offline="false"/>
